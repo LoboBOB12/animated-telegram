@@ -1,0 +1,98 @@
+{
+  "Loans Offers": [
+    null,
+    {
+      "Descrition": "Первый займ под 0%",
+      "Limit": "30000 руб.",
+      "Link": "https://pxl.leads.su/click/535a36b3bab0922a5fccd4137a788085?erid=LjN8JyhzL",
+      "Logo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/adengi.png?alt=media&token=070ac3fd-1056-46dc-afe5-079d2e954531&_gl=1*13si6k2*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMjc1Ni41NC4wLjA.",
+      "Name": "А Деньги",
+      "Rating": 4,
+      "Visible": true
+    },
+    {
+      "Descrition": "Займ под 0% для новых клиентов",
+      "Limit": "30000 руб.",
+      "Link": "https://pxl.leads.su/click/4854fde405768505b0a7ac2e3d612d48?erid=LjN8KE77F",
+      "Logo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/vivus.png?alt=media&token=906da88d-512c-42e7-9fb9-940531e9a571&_gl=1*m4t7u*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMjk3Ni4zMy4wLjA.",
+      "Name": "Vivus",
+      "Rating": 4.5,
+      "Visible": true
+    },
+    {
+      "Descrition": "Первый займ под 0%",
+      "Limit": "30000 руб.",
+      "Link": "https://pxl.leads.su/click/d437478dbafbe6f1fb7ba6401fb67346?erid=LjN8KFnWu",
+      "Logo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/srochnodengi.png?alt=media&token=ba6212c4-9d80-4051-8a85-922760c86efb&_gl=1*1iioi52*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMjk5NS4xNC4wLjA.",
+      "Name": "Срочно Деньги",
+      "Rating": 3,
+      "Visible": true
+    },
+    {
+      "Descrition": "Займ под 0% для новых клиентов",
+      "Limit": "100000 руб.",
+      "Link": "https://pxl.leads.su/click/cb8756411894b507f4e2443f91f27cc4?erid=LjN8KZCWn",
+      "Logo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/dozarplaty.png?alt=media&token=452709e3-d0a7-452b-b97c-1c0bede5c011&_gl=1*1caqofy*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzAxOS42MC4wLjA.",
+      "Name": "До Зарплаты",
+      "Rating": 4,
+      "Visible": false
+    },
+    {
+      "Descrition": "До семи дней пользования займом для новых клиентов БЕСПЛАТНО - 0%!",
+      "Limit": "50000 руб.",
+      "Link": "https://pxl.leads.su/click/4d36f32c688d7654f215375797ef5abd?erid=LjN8Kaebu",
+      "Logo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/turbozaim.png?alt=media&token=c01b29d6-7d7b-4ed2-8b76-a5ccd2de6894&_gl=1*1qcobub*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzAzOS40MC4wLjA.",
+      "Name": "Турбозайм",
+      "Rating": 4,
+      "Visible": true
+    }
+  ],
+  "CreditCard Offers": [
+    null,
+    {
+      "BankLogo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/gazprombank.png?alt=media&token=d1dfef4b-253b-4bf3-ac27-f64e4cddd718&_gl=1*b0kuqa*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzMyNi42MC4wLjA.",
+      "BankName": "Газпромбанк",
+      "Descrition": "Описание кредитки Описание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредитки",
+      "ImageCard": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/gazprom.png?alt=media&token=bee21bbf-2f7b-4647-ba35-d67e8544c1a0&_gl=1*dqrwc5*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzEzMC40OC4wLjA.",
+      "Link": "https://pxl.leads.su/click/f87b81ee70f59f698f44452737b2b935?erid=LjN8KVJGS",
+      "Name": "Кредитная карта «180 дней»",
+      "PromoText": "АКЦИЯ «180 дней без % и бесплатное обслуживание и кешбэк 1000 рублей на первую покупку»",
+      "Rating": 4.5,
+      "Visible": true
+    },
+    {
+      "BankLogo": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/forabank.png?alt=media&token=bc038231-249a-405e-8031-b64a3820c665&_gl=1*1oc3qsr*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzM2MS4yNS4wLjA.",
+      "BankName": "Газпромбанк",
+      "Descrition": "Описание кредитки Описание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредиткиОписание кредитки",
+      "ImageCard": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/gazprom.png?alt=media&token=bee21bbf-2f7b-4647-ba35-d67e8544c1a0&_gl=1*dqrwc5*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzEzMC40OC4wLjA.",
+      "Link": "https://pxl.leads.su/click/f87b81ee70f59f698f44452737b2b935?erid=LjN8KVJGS",
+      "Name": "Кредитная карта №2",
+      "PromoText": "АКЦИЯ «180 дней без % и бесплатное обслуживание и кешбэк 1000 рублей на первую покупку»",
+      "Rating": 4.5,
+      "Visible": true
+    }
+  ],
+  "DeptCard Offers": [
+    null,
+    {
+      "BankName": "Фора Банк",
+      "Descrition": "Описание карты",
+      "ImageCard": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/forabank.png?alt=media&token=bc2cf165-4e58-46b0-9e80-8bfe544f93eb&_gl=1*c3cws8*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzE1OS4xOS4wLjA.",
+      "Link": "https://pxl.leads.su/click/edd6f892aa869892682d5540b859bfc8?erid=LjN8KLtcx",
+      "Name": "Карта с повышенным кешбэком МИР «Все включено»",
+      "PromoText": "Промотекст",
+      "Rating": 4.5,
+      "Visible": true
+    },
+    {
+      "BankName": "Фора Банк",
+      "Descrition": "Описание карты",
+      "ImageCard": "https://firebasestorage.googleapis.com/v0/b/loanstestdata.appspot.com/o/gazprom.png?alt=media&token=bee21bbf-2f7b-4647-ba35-d67e8544c1a0&_gl=1*dqrwc5*_ga*MTA4NjQ4NDY5NC4xNjk2NDI1NzUy*_ga_CW55HF8NVT*MTY5NjUwMjYxMi4zLjEuMTY5NjUwMzEzMC40OC4wLjA.",
+      "Link": "https://pxl.leads.su/click/edd6f892aa869892682d5540b859bfc8?erid=LjN8KLtcx",
+      "Name": "Карта #2",
+      "PromoText": "Промотекст",
+      "Rating": 4.5,
+      "Visible": true
+    }
+  ]
+}
